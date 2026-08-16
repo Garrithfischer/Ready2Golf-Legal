@@ -10,7 +10,6 @@ If you would like to delete your Ready2Golf account and all associated data, you
 This action will immediately and permanently remove your profile, hosted rounds, messages, and all associated data from our active servers.
 
 **Need help?**
-If you no longer have access to the app and need your account deleted, please email [YOUR EMAIL ADDRESS HERE] with the subject "Account Deletion Request" from the email address associated with your account.
+If you no longer have access to the app and need your account deleted, please email support@ready2golfapp.com with the subject "Account Deletion Request" from the email address associated with your account.
 Click Commit changes... to save it.
 
-Step 2: Paste the URL into Google Play
